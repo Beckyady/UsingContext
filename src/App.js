@@ -62,7 +62,7 @@ class App extends Component {
     return (
       <MyProvider>
         <div >
-          Hello, we are here. What can we do for you
+          Hello, we are here. What can i do for you
         <Family />
         </div>
       </MyProvider>
